@@ -1,9 +1,12 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
@@ -105,6 +108,8 @@ footer {
     font-size: 20px;
 } */
 
+
+/* Class Selectors */
 .background-img {
     height: 800px !important;
     width: 100%;
