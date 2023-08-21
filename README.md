@@ -14,4 +14,4 @@ The Horiseon website lists all the information about the business's services and
 
 ## Credits
 
-Refer to our footer for copyright use 
+Refer to the end of our website for credit and copyright use 
