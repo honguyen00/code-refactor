@@ -10,8 +10,10 @@ One challenge that we face for our design is that we are unable to make elements
 
 ## Usage
 The Horiseon website lists all the information about the business's services and all the possible benefits for choosing to use the service. By using the navigation bar, users can navigate through the content of each service that has to offer.
+
  ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/demo.png)
 
 ## Credits
 
-Refer to the end of our website for credit and copyright use 
+Made with ❤️️ by Horiseon.<br/>
+Refer to the end of our website for copyright use.

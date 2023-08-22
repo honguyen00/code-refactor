@@ -72,7 +72,7 @@ a {
 }
 
 a:hover {
-    color: rgb(71, 28, 71);
+    color: rgb(68, 3, 68);
 }
 
 /* Styling for paragraph element
@@ -131,7 +131,7 @@ footer h2 {
     max-height: 200px;
 }
 
-/* Styling for the content in the first section where information and its supporting image can float to the left or right */
+/* Styling for the information for each service where information and its supporting image can float to the left or right */
 .float-left {
     float: left;
     margin-right: 25px;
