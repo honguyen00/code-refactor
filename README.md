@@ -1,5 +1,5 @@
 # Horiseon for Business
-(You can access our website by clicking this link: https://honguyen00.github.io/week-1-challenge/)
+(You can access our website by clicking this link: https://honguyen00.github.io/code-refactor/)
 
 ## Description
 
